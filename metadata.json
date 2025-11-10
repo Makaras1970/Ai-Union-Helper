@@ -1,0 +1,7 @@
+{
+  "name": "AI Union Helper",
+  "description": "An AI-powered assistant providing clear answers about Norwegian labor law, the NAV system, taxes (Skatt), and trade unions. Get help with contracts, dismissals, sick pay, and more.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
